@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [85mm_30deg.PcbDoc]
+   Generated File[85mm_30deg.GTS]
+   Generated File[85mm_30deg.GTL]
+   Generated File[85mm_30deg.GBL]
+   Generated File[85mm_30deg.GBS]
+   Generated File[85mm_30deg.GM1]
+   Generated File[85mm_30deg.GM]
+   Generated File[85mm_30deg.EXTREP]
+   Generated File[85mm_30deg.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 21:48:54 On 07.05.2025
